@@ -1,0 +1,5 @@
+# Create this file to prevent committing secrets
+echo ".env
+__pycache__/
+*.pyc
+.DS_Store" > .gitignore
